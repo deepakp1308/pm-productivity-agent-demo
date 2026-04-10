@@ -1,0 +1,32 @@
+{
+  "jordan-park": {
+    "weeks": ["2026-W06", "2026-W07", "2026-W08", "2026-W09", "2026-W10", "2026-W11", "2026-W12", "2026-W13", "2026-W14", "2026-W15"],
+    "alignment_pct": [78.2, 80.1, 79.5, 82.3, 81.0, 83.5, 82.0, 84.1, 83.0, 83.7],
+    "priority_breakdown": {
+      "Insights Agent & Scaled AI": [55, 57, 58, 56, 60, 59, 61, 58, 62, 60.2],
+      "Email Report Reimagine & Custom Reports": [3, 2, 4, 3, 2, 1, 3, 2, 1, 0.9],
+      "Marketing Performance Reporting via QB BI": [18, 19, 20, 22, 21, 23, 20, 24, 22, 22.6],
+      "Other": [24, 22, 18, 19, 17, 17.5, 16, 16, 15, 16.3]
+    }
+  },
+  "morgan-lee": {
+    "weeks": ["2026-W06", "2026-W07", "2026-W08", "2026-W09", "2026-W10", "2026-W11", "2026-W12", "2026-W13", "2026-W14", "2026-W15"],
+    "alignment_pct": [72, 73, 75, 74, 76, 77, 78, 77, 79, 78.9],
+    "priority_breakdown": {
+      "Insights Agent & Scaled AI": [5, 4, 6, 5, 4, 3, 5, 4, 3, 2],
+      "Email Report Reimagine & Custom Reports": [50, 52, 53, 55, 56, 58, 57, 59, 58, 59.9],
+      "Marketing Performance Reporting via QB BI": [16, 17, 18, 17, 19, 18, 20, 19, 20, 19],
+      "Other": [29, 27, 23, 23, 21, 21, 18, 18, 19, 19.1]
+    }
+  },
+  "taylor-kim": {
+    "weeks": ["2026-W06", "2026-W07", "2026-W08", "2026-W09", "2026-W10", "2026-W11", "2026-W12", "2026-W13", "2026-W14", "2026-W15"],
+    "alignment_pct": [70, 72, 74, 75, 77, 78, 79, 80, 82, 83.0],
+    "priority_breakdown": {
+      "Insights Agent & Scaled AI": [2, 3, 2, 1, 2, 1, 1, 1, 0.5, 0.5],
+      "Email Report Reimagine & Custom Reports": [60, 62, 65, 68, 70, 72, 75, 78, 80, 82.4],
+      "Marketing Performance Reporting via QB BI": [8, 7, 8, 7, 6, 6, 5, 4, 3, 2],
+      "Other": [30, 28, 25, 24, 22, 21, 19, 17, 16.5, 15.1]
+    }
+  }
+}

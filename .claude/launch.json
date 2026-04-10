@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "frontend",
+      "runtimeExecutable": "/Users/dprabhakara/.local/bin/npx",
+      "runtimeArgs": ["next", "dev", "--port", "3001"],
+      "port": 3001,
+      "cwd": "/Users/dprabhakara/ai_workspace/pm-agent/frontend"
+    }
+  ]
+}
