@@ -3,6 +3,7 @@
 import re
 import json
 import logging
+from typing import Optional
 
 from backend.config import RULE_BASED_PATTERNS, DEFAULT_PRIORITIES
 from backend.storage import db
@@ -139,7 +140,7 @@ def classify_batch(activities: list[dict], use_llm: bool = True) -> list[dict]:
     return results
 
 
-def _find_priority_id(name: str, priorities: list[dict]) -> int | None:
+def _find_priority_id(name: str, priorities: list[dict]) -> Optional[int]:
     for p in priorities:
         if p["name"] == name:
             return p["id"]
